@@ -34,7 +34,7 @@ int main() {
     {
         while (getline(infile, baris))
         {
-            cout << baris << '\n'
+            cout << baris << '\n';
         }
         infile.close();
     }
